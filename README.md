@@ -22,6 +22,7 @@
 7) **Bcrypt** ,JavaScript library for securely hashing passwords using the bcrypt algorithm. It offers a simple API for hashing and comparing passwords, ensuring strong security against attacks like brute-forcing and rainbow tables
 8) **Nodemon** is used to monitor for any changes in our source and automatically restart our server
 9) **Mongoose** in Node.js simplifies MongoDB interactions with schema-based modeling, validation, and query building, enhancing productivity and ensuring data consistency.
+10) **Multer** , Node.js middleware package, allowing users to upload files such as assignment or event attachments.
    
 ---
 ## 🔥 Features
@@ -29,7 +30,7 @@
 2) Usage of Express Session(A layer built on the top of the Node js to manage servers and routes)
 3) MongoDB CRUD Operation
 4) EJS , Partials, Layouts
-5) Add , Edit, Delete, Search Filter for Events and Expenses
+5) Add , Edit, Delete, Search Filter for Events and Expenses and also **attachmenmts** using Multer Package
 6) Calendar View 
 8) Syncing with Google Calendar only after setting up googlecalendarID and API credentials in .env file   
 12) Uploading Grades and calculate GPA
